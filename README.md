@@ -18,4 +18,4 @@ More in [Releases](https://github.com/Relqhx/Ryon-Tickets/releases) or new added
 
 ### **🔧 Invite ↴**
 
-➺ [Click Here!](https://discord.com/api/oauth2/authorize?client_id=1065770439596572733&permissions=275414854736&scope=bot)
+➺ OFF
